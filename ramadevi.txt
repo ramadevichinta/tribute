@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tribute</title>
+</head>
+<body background="https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_960_720.jpg">
+    <h1><center>SAVITRI</center></h1>
+    <h3><center>(The Indian Actor)</center></h3>
+    <div style="text-align:center;">
+     <img src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6ISwLPbfjsQxrvS0IoEkJlrk5hR.jpg"alt="image of savitri"><div>
+    <p>Savitri Ganesan (born Nissankara Savitri; 6 December 1936 – 26 December 1981) was an Indian actress, playback singer, dancer, director, and producer known for her works primarily in Telugu and Tamil cinema. She had also worked in Kannada, Hindi and Malayalam films. She starred in more than 250 films over three decades. She was one of the highest-paid and most popular Indian actresses of the 1950s,60s, and early 70s. She is often referred as "Mahanati" which means "Great Actress" and "Nadigaiyar Thilagam" which means "Doyen of all the actresses".[1]
+
+    </p>
+    <h3>Early Life</h3>
+    <p>Nissankara Savitri was born on 6 December 1936[a] in a Telugu-speaking family in Chirravuru, Guntur district of present-day Andhra Pradesh.[9][10] Her father was Nissankara Guravayya and her mother was Nissankara Subhadramma.[9] Her father died when she was six months old, after which her mother took Savitri and an older sibling, Maruti, to live with an aunt and uncle. Her uncle, Kommareddy Venkataramaiah Chowdary, enrolled her in classes when she began to show a talent for dance.[1][9]
+
+        She was named for the expression of her eyes during dramas. She participated in many dramas, in one where she was rewarded with a garland by the famous actor Prithviraj Kapoor. She, along with her Uncle, went to the Vijaya Vauhini studio in Chennai to enroll Savitri as a character in a movie, though they refused to do so. Not giving up, they tried once again, in another cinema, where she managed to get a role, but could not stand it as she hesitated in reciting dialogues because she was in awe when talking to the hero.
+        
+        </p>
+        <h3>Career</h3>
+        <p>Savitri acted in dance dramas as a child, including some work with a theatre company run by Jaggayya. She made an unsuccessful speculative trip to find film work in Madras at the age of 14 when she was deemed to be too young to play heroine roles, but in 1950 was cast as the female lead in Samsaram. That role did not become actuality because she became too excited, necessitating numerous retakes and eventually her replacement in the part. She was given a minor speaking role in the film and in the next year had two more minor roles, in Roopavati and Patala Bhairavi, before getting her big break as the second heroine in Pelli Chesi Choodu. She, later on, propelled to stardom with critically acclaimed roles in blockbusters such as Devadasu and Missamma.[1]
+
+        </p>
+        <p>Director PC Reddy who directed Savitri says, “there is none who can equal her beauty and talent. She didn’t heed anyone’s advice and got married very early. I remember she was so addicted to drinking even on the sets; she threw up on my shirt during a shoot. The next day she got a brand new shirt for me. She was a generous woman.” Savitri also worked in Bollywood films, although she did not find much success.[1] Her only Malayalam film was Chuzhi (1973).[12]
+
+        </p>
+        <h3>Awards</h3>
+        <p>Filmfare Awards South
+            Best Actress – Telugu: Devadasu 
+            Best Actress – Telugu: Mayabazar 
+            Best Actress – Telugu: Chivaraku Migiledi 
+            Best Actress – Telugu: Aradhana 
+            Best Actress – Telugu: Maro Prapancham 
+            Rashtrapati Award
+            Chivaraku Migiledi 
+            Nandi Awards
+            Best Feature Film: Chinnari Papalu 
+            </p>
+            <h3>Death</h3>
+            <p>Savitri died on 26 December 1981, at the age of 46, after being in a coma for 19 months. She had developed diabetes and high blood pressure.[1][14]
+
+            </p>
+<h5>Done by:Chinta Ramadevi</h5>
+        
+</body>
+</html>
